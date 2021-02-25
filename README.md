@@ -1,2 +1,1 @@
-# lemonon-one
-Psychology learning in ZJU.
+# Psychology learning in ZJU.
